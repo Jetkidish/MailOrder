@@ -12,8 +12,8 @@ using System.Windows.Forms;
 /*
  * So, I'm not sure if this counts as a program header, but here goes...
  * Sales Bonus Calculator - Designed by Devon Cochane (SN 200244662)
- * Last modified 2016-10-07 @ 6:26pm
- * Rev 3
+ * Last modified 2016-10-07 @ 6:39pm
+ * Rev 3.1
  * This program will take given sales and employee information and output an appropriate bonus based on hours worked and total sales
 */
 
@@ -40,9 +40,10 @@ namespace SharpMailOrder_SalesBonus
 
             CalculateTotal();
             if (EmployeeNameTextBox.Text == "")
-                {
+            {
                 MessageBox.Show("Please Fill In Name/ID");
                 ResetFields();
+             
                 //currently this will throw a huge error when the employee name is left blank
             }
             if (EmployeeNameTextBox.Text == "Tom")
@@ -57,6 +58,7 @@ namespace SharpMailOrder_SalesBonus
         /// <summary>
         /// TotalSalesTextBox KeyPress Event Handler
         /// This makes it so you can ONLY USE NUMBERS in the SALES TEXT BOX
+        /// This was taken from the following youtube video: https://www.youtube.com/watch?v=CLzltMQNENw created by Anam Khoirul
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -67,6 +69,7 @@ namespace SharpMailOrder_SalesBonus
         /// <summary>
         /// HoursWorkedTextBox KeyPress Event Handler
         /// This makes it so you can ONLY USE NUMBERS in the HOURS WORKED TEXT BOX
+        /// This was taken from the following youtube video: https://www.youtube.com/watch?v=CLzltMQNENw created by Anam Khoirul
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
