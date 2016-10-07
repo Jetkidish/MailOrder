@@ -1,0 +1,8 @@
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\bin\Debug\SharpMailOrder-SalesBonus.exe.config
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\obj\Debug\SharpMailOrder_SalesBonus.SalesBonus.resources
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\obj\Debug\SharpMailOrder_SalesBonus.Properties.Resources.resources
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\obj\Debug\SharpMailOrder-SalesBonus.csproj.GenerateResource.Cache
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\bin\Debug\SharpMailOrder-SalesBonus.exe
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\bin\Debug\SharpMailOrder-SalesBonus.pdb
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\obj\Debug\SharpMailOrder-SalesBonus.exe
+D:\Users\Devon\Documents\School\Semester 1 - Fall 2016\COMP1004 - Rapid Application Development\SharpMailOrder-SalesBonus\SharpMailOrder-SalesBonus\obj\Debug\SharpMailOrder-SalesBonus.pdb
